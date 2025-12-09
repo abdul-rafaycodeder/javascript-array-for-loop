@@ -53,3 +53,10 @@
 // console.log(towD2Array[2][3][2][0])
 
 
+let checkStudent = prompt("enter student name")
+let studentName = ["ali","osama","khalid","bilal","kinza"]
+
+for (let i = 0; i < studentName.length; i++) {
+   console.log(studentName[i])
+    
+}
