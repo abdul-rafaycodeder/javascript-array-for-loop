@@ -33,9 +33,23 @@
 //     console.log(totle)
 // }
 
-var arr = ["ali","rafay",10,20]
+// var arr = ["ali","rafay",10,20 ]
 
-console.log(arr.length)
-console.log(arr.length-2)
+// console.log(arr.length)
+// console.log(arr.length-1)
+// console.log("rafay k pass hai",arr[arr.length-1])
+
+
+// var towDArray 
+
+// var towDArray = [[, 1, 2, 3, [4, 5, 6[7, 8, 9]]]]
+
+// var towD2Array = [
+//     [1, 2, 3],
+//     [4, 5, 6],
+//     [7, 8, 9,[2,"g",["c",10]]],
+// ];
+
+// console.log(towD2Array[2][3][2][0])
 
 
