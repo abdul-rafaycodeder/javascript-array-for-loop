@@ -57,6 +57,7 @@ let checkStudent = prompt("enter student name")
 let studentName = ["ali","osama","khalid","bilal","kinza"]
 
 for (let i = 0; i < studentName.length; i++) {
-   console.log(studentName[i])
-    
+    if (studentName[i] == checkStudent){
+        console.log(checkStudent)
+    } 
 }
