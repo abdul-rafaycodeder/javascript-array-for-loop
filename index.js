@@ -61,10 +61,18 @@
 //         console.log(checkStudent)
 //     } 
 // }
-        
 
-var arr = [1,2,4,5,6,7,8,98,9,5,4,4,,,3,,543,3,3,433,,4,6]
 
-console.log(arr.length)
-console.log(arr.length-1)
-console.log(arr[arr.length-1])
+// var arr = [1,2,4,5,6,7,8,98,9,5,4,4,,,3,,543,3,3,433,,4,6,"osama"]
+
+// console.log(arr.length)
+// console.log(arr.length-1)
+// console.log(arr[arr.length-1]) 
+
+var towDArray = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+]
+
+console.log(towDArray[1][1])
