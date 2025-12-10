@@ -53,12 +53,18 @@
 // console.log(towD2Array[2][3][2][0])
 
 
-let checkStudent = prompt("enter student name")
-let studentName = ["ali","osama","khalid","bilal","kinza"]
+// let checkStudent = prompt("enter student name")
+// let studentName = ["ali","osama","khalid","bilal","kinza"]
 
-for (let i = 0; i < studentName.length; i++) {
-    if (studentName[i] == checkStudent){
-        console.log(checkStudent)
-    } 
-}
+// for (let i = 0; i < studentName.length; i++) {
+//     if (studentName[i] == checkStudent){
+//         console.log(checkStudent)
+//     } 
+// }
         
+
+var arr = [1,2,4,5,6,7,8,98,9,5,4,4,,,3,,543,3,3,433,,4,6]
+
+console.log(arr.length)
+console.log(arr.length-1)
+console.log(arr[arr.length-1])
