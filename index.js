@@ -82,7 +82,12 @@
 // let arr3 = [[11,12,13],[14,15,16],[17,18,19]];
 // let arr4 = [[11,12,13],[14,15,16],[17,18,19]];
 
-
 // let sum = [arr1[0][0] + arr2[0][0] + arr3[0][0] + arr4[0][0]] 
-
 // console.log(sum)
+
+let arr1 = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
+
+for (let i = 0; i < arr1.length; i++) {
+    console.log("chal gaya  ")
+}   
+
